@@ -1,8 +1,8 @@
 github_users:
   - svf97
 
-bitbucket_users:
-  - svfx
+# bitbucket_users:
+#   - svfx
 
 repo_description_lines_max: 2
 
@@ -10,7 +10,6 @@ github_repos:
   - egirna/squid
   - svf97/translation-pipeline
 
-bitbucket_repos:
-  - svfx/credit-card-fraud
-  - svfx/cyber-talents-writeups
-  
+# bitbucket_repos:
+#   - svfx/credit-card-fraud
+#   - svfx/cyber-talents-writeups
