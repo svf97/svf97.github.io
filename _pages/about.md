@@ -2,15 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>whoami</a>. Build. Break. Patch.
+subtitle: Build. Break. Patch.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Between Cairo & Manila</p>
-    <p>Remote/Hybrid</p>
+    <p> 📍 Between Cairo & Manila</p>
+    <p> 💻 Remote/Hybrid</p>
 
 
 news: false # includes a list of news items
@@ -18,6 +18,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 projects: true
 social: true # includes social icons at the bottom of the page
 ---
+
+<a href='#'>whoami</a>
+
+Are you looking for someone who speaks tech & business?
+
 Aspiring `purple teamer` with a versatile background in cybersecurity, skilled in deploying security appliances, streamlining processes, and leveraging data analysis to identify vulnerabilities and inform robust security strategies.
 
 Experienced in leading and mentoring teams, promoting a culture of continuous learning and innovation, and aspiring to become a key contributor as a `purple teamer`, balancing attack simulation with defensive tactics.
@@ -25,7 +30,11 @@ Experienced in leading and mentoring teams, promoting a culture of continuous le
 
 Check out my latest technical posts on [Medium](https://medium.com/@shereenvf) or [Blog](https://svf97.github.io/blog/).
 
-### Visit my socials below
+
+## how (stack)
+
+
+### where
  <!-- include other platforms -->
 
 
