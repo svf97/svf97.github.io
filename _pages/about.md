@@ -15,6 +15,7 @@ profile:
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
+projects: true
 social: true # includes social icons at the bottom of the page
 ---
 Aspiring `purple teamer` with a versatile background in cybersecurity, skilled in deploying security appliances, streamlining processes, and leveraging data analysis to identify vulnerabilities and inform robust security strategies.
