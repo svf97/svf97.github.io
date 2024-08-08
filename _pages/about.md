@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>whoami</a>. Build. Break. Patch.
 
 profile:
   align: right
@@ -13,13 +13,13 @@ profile:
     <p>123 your address street</p>
     <p>Your City, State 12345</p>
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 Aspiring `purple teamer` with a versatile background in cybersecurity, skilled in deploying security appliances, streamlining processes, and leveraging data analysis to identify vulnerabilities and inform robust security strategies.
 
- Experienced in leading and mentoring teams, promoting a culture of continuous learning and innovation, and aspiring to become a key contributor as a `purple teamer`, balancing attack simulation with defensive tactics.
+Experienced in leading and mentoring teams, promoting a culture of continuous learning and innovation, and aspiring to become a key contributor as a `purple teamer`, balancing attack simulation with defensive tactics.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
