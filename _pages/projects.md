@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: "A jack of all trades is a master of none, but oftentimes is better than a master of one."
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [cybersecurity//devsecops, QA, Project Management]
 horizontal: false
 ---
 
