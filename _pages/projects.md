@@ -5,7 +5,7 @@ permalink: /projects/
 description: "A jack of all trades is a master of none, but oftentimes is better than a master of one."
 nav: true
 nav_order: 3
-display_categories: [cybersecurity//devsecops, QA, Project Management]
+display_categories: [Cybersecurity/DevSecOps, QA, Project Management]
 horizontal: false
 ---
 
