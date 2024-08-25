@@ -4,10 +4,10 @@ title: Content Disarm & Reconstruction
 description: Performance Test Engineer
 img: assets/img/dvscps/devsecops.png
 # importance: 3
-category: Cybersecurity/DevSecOps
+category: QA
 ---
 
-<h3>DevSecOps Engineer</h3>
+<h3>Main Highlights</h3>
 
 <ul>
 <li>Proactively addressed critical vulnerabilities (CVE-2021-21972 & CVE-2021-21973) in VMware ESXi servers, preventing severe security breaches</li>
@@ -15,7 +15,7 @@ category: Cybersecurity/DevSecOps
 <li>Demonstrated expertise in monitoring and automating security-related tasks to improve the overall resilience of cloud environments</li>
 
 </ul>
-Tech Stack Used:
+<h3>Tech Stack Used:</h3>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
