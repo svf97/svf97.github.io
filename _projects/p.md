@@ -2,7 +2,7 @@
 layout: page
 title: Threat Detection Systems 
 description: Security Consultant
-img: assets/img/dvscps/devsecops.png
+img: assets/img/dvscps/image.png
 # importance: 3
 category: Cybersecurity/DevSecOps
 ---
@@ -13,8 +13,8 @@ category: Cybersecurity/DevSecOps
 <li>Engineered sophisticated threat detection systems that bolstered the client's security defenses, making complex security concepts accessible for team expansion</li>
 <li>Directed the deployment and optimization of over 50 CAS and ProxySG security appliances, showcasing exceptional leadership and practical project management skills</li>
 <li>Collaborated cross-functionally to integrate firewall rules and leverage automation/monitoring tools to enhance the overall security posture</li>
-
 </ul>
+
 <h3>Tech Stack Used:</h3>
 
 <div class="container">

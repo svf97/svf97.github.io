@@ -2,7 +2,7 @@
 layout: page
 title: Content Disarm & Reconstruction 
 description: DevSecOps / Performance Test Engineer
-img: image.png
+img: assets/img/dvscps/devsecops.png
 # importance: 3
 category: Cybersecurity/DevSecOps
 ---
@@ -17,6 +17,7 @@ category: Cybersecurity/DevSecOps
 
 <h3>Tech Stack Used:</h3>
 smaller icons 
+
 <div class="container">
   <div class="row">
       <div class="col-12 col-sm-6 col-md-4 col-lg-3">
@@ -28,16 +29,6 @@ smaller icons
       <div class="col-12 col-sm-6 col-md-4 col-lg-3">
           {% include figure.liquid loading="eager" path="assets/img/dvscps/esxi.png" title="example image" class="img-fluid rounded z-depth-1" %}
       </div>
-      <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/dvscps/grafana-logo.png" title="example image" class="img-fluid rounded z-depth-1" %}
-      </div>
-      <div class="col-12 col-sm-6 col-md-4 col-lg-3">
-          {% include figure.liquid loading="eager" path="assets/img/dvscps/kubernetes.png" title="example image" class="img-fluid rounded z-depth-1" %}
-      </div>
-      </div>
-      <div class="col-sm-8 mt-3 mt-md-0">
-          {% include figure.liquid path="assets/img/dvscps/nginx.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-        </div>
       <div class="col-sm-4 mt-3 mt-md-0">
           {% include figure.liquid path="assets/img/dvscps/rancher.png" title="example image" class="img-fluid rounded z-depth-1" %}
       </div>
@@ -49,6 +40,16 @@ smaller icons
         </div>
          <div class="col-sm-4 mt-3 mt-md-0">
           {% include figure.liquid path="assets/img/dvscps/docker.svg" title="example image" class="img-fluid rounded z-depth-1" %}
+        </div>
+      <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/dvscps/grafana-logo.png" title="example image" class="img-fluid rounded z-depth-1" %}
+      </div>
+      <div class="col-12 col-sm-6 col-md-4 col-lg-3">
+          {% include figure.liquid loading="eager" path="assets/img/dvscps/kubernetes.png" title="example image" class="img-fluid rounded z-depth-1" %}
+      </div>
+      </div>
+      <div class="col-sm-8 mt-3 mt-md-0">
+          {% include figure.liquid path="assets/img/dvscps/nginx.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
         </div>
   </div>
 </div>
