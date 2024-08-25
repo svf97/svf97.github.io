@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Content Disarm & Reconstruction 
-description: Performance Test Engineer
+title: Threat Detection Systems 
+description: Security Consultant
 img: assets/img/dvscps/devsecops.png
 # importance: 3
 category: Cybersecurity/DevSecOps
@@ -10,9 +10,9 @@ category: Cybersecurity/DevSecOps
 <h3>Main Highlights</h3>
 
 <ul>
-<li>Proactively addressed critical vulnerabilities (CVE-2021-21972 & CVE-2021-21973) in VMware ESXi servers, preventing severe security breaches</li>
-<li>Developed proficiency with Ansible, Jenkins, Kibana, Elasticsearch, and Grafana, applying these tools to enhance Kubernetes architectures and cloud security</li>
-<li>Demonstrated expertise in monitoring and automating security-related tasks to improve the overall resilience of cloud environments</li>
+<li>Engineered sophisticated threat detection systems that bolstered the client's security defenses, making complex security concepts accessible for team expansion</li>
+<li>Directed the deployment and optimization of over 50 CAS and ProxySG security appliances, showcasing exceptional leadership and practical project management skills</li>
+<li>Collaborated cross-functionally to integrate firewall rules and leverage automation/monitoring tools to enhance the overall security posture</li>
 
 </ul>
 <h3>Tech Stack Used:</h3>
