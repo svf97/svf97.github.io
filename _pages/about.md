@@ -30,11 +30,11 @@ Experienced in leading and mentoring teams, promoting a culture of continuous le
 
 Check out my latest technical posts on [Medium](https://medium.com/@shereenvf) or [Blog](https://svf97.github.io/blog/).
 
-
+<!-- 
 ## how (stack)
 
 
-### where
+### where -->
  <!-- include other platforms -->
 
 
