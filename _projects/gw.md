@@ -26,13 +26,13 @@ category: Cybersecurity/DevSecOps
           {% include figure.liquid loading="eager" path="assets/img/dvscps/aws.png" title="example image" class="img-fluid rounded z-depth-1" %}
       </div>
       <div class="col-12 col-sm-6 col-md-4 col-lg-3">
-          {% include figure.liquid loading="eager" path="aassets/img/dvscps/esxi.png" title="example image" class="img-fluid rounded z-depth-1" %}
+          {% include figure.liquid loading="eager" path="assets/img/dvscps/esxi.png" title="example image" class="img-fluid rounded z-depth-1" %}
       </div>
       <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/dvscps/grafana-logo.png" title="example image" class="img-fluid rounded z-depth-1" %}
       </div>
       <div class="col-sm-4 mt-3 mt-md-0">
-          {% include figure.liquid path="aassets/img/dvscps/kubernetes.png" title="example image" class="img-fluid rounded z-depth-1" %}
+          {% include figure.liquid path="assets/img/dvscps/kubernetes.png" title="example image" class="img-fluid rounded z-depth-1" %}
       </div>
       <div class="col-sm-8 mt-3 mt-md-0">
           {% include figure.liquid path="assets/img/dvscps/nginx.jpg" title="example image" class="img-fluid rounded z-depth-1" %}

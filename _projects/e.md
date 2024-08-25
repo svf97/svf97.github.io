@@ -10,10 +10,9 @@ category: Cybersecurity/DevSecOps
 <h3>Main Highlights</h3>
 
 <ul>
-<li>Proactively addressed critical vulnerabilities (CVE-2021-21972 & CVE-2021-21973) in VMware ESXi servers, preventing severe security breaches</li>
-<li>Developed proficiency with Ansible, Jenkins, Kibana, Elasticsearch, and Grafana, applying these tools to enhance Kubernetes architectures and cloud security</li>
-<li>Demonstrated expertise in monitoring and automating security-related tasks to improve the overall resilience of cloud environments</li>
-
+<li>Leveraged Symantec's Security Analytics and Management Center, as well as commercial and open-source proxy solutions, to design and deploy advanced network security mechanisms
+<li>Analyzed network traffic patterns using security analytics tools to detect and mitigate potential threats, contributing to the overall security posture
+<li>Planned, coordinated, and tested the development of internal security tools to automate and enhance the organization's security capabilities</li>
 </ul>
 <h3>Tech Stack Used:</h3>
 

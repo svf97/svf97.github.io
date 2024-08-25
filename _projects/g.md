@@ -10,9 +10,9 @@ category: QA
 <h3>Main Highlights</h3>
 
 <ul>
-<li>Proactively addressed critical vulnerabilities (CVE-2021-21972 & CVE-2021-21973) in VMware ESXi servers, preventing severe security breaches</li>
-<li>Developed proficiency with Ansible, Jenkins, Kibana, Elasticsearch, and Grafana, applying these tools to enhance Kubernetes architectures and cloud security</li>
-<li>Demonstrated expertise in monitoring and automating security-related tasks to improve the overall resilience of cloud environments</li>
+<li>Orchestrated comprehensive security testing protocols across various software platforms, identifying and mitigating over 100 security vulnerabilities and enhancing application security by 40%</li>
+<li>Implemented agile methodologies to streamline communication, improve collaboration, and enhance project delivery</li>
+<li>Developed and executed 200+ test plans and test cases to ensure security requirements were thoroughly met</li>
 
 </ul>
 <h3>Tech Stack Used:</h3>
